@@ -16,3 +16,4 @@ python-dotenv
 watchdog
 wikipedia
 opencv-python
+numpy
